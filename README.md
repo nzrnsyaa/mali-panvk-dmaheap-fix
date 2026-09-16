@@ -40,7 +40,7 @@ vulkaninfo | grep dma-heap             # expected: no output
 
 - Device: Infinix X6873 (Dimensity 8350)
 - GPU: Mali-G615 MC6 (Valhall v11)
-- OS: Android 15 + KernelSU
+- OS: Android 16 + KernelSU
 - Result: dma-heap works, SELinux Enforcing, vkcube 114 FPS
 
 ## Requires
